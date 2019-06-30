@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "36695082623",
+    "firebase_url": "https://androidlatihanmixfadila.firebaseio.com",
+    "project_id": "androidlatihanmixfadila",
+    "storage_bucket": "androidlatihanmixfadila.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36695082623:android:6e5bba0262bc155f",
+        "android_client_info": {
+          "package_name": "com.rizki.androidlatihanmix_fadilarizki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36695082623-3favf9cslk831tuoc2p7uj7mb95gf6ds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rizki.androidlatihanmix_fadilarizki",
+            "certificate_hash": "52019e0f8cec9db708895dc419e6213a819548d8"
+          }
+        },
+        {
+          "client_id": "36695082623-ncoohgabbdlneg7phmhkvpiniranpq0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8aN67hZ6CSQ0qo8VKE5xDvWgo_n2m_GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36695082623-ncoohgabbdlneg7phmhkvpiniranpq0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
