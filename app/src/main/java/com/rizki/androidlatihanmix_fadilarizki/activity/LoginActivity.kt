@@ -122,7 +122,7 @@ class LoginActivity : AppCompatActivity() {
 
     override fun onStart() {
         super.onStart()
-        val user = fAuth.currentUser
+        val user=fAuth.currentUser
         if (user != null)
             updateUI(user)
     }

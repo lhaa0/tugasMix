@@ -9,15 +9,10 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
-        </activity>
-        <activity android:name=".fragment.FragmentUpload">
-        </activity>
-        <activity android:name=".fragment.FragmentProfile">
-        </activity>
+        <activity android:name=".MainActivity"/>
+        <activity android:name=".fragment.FragmentProfile"/>
         <activity android:name=".activity.LoginActivity"
-            android:theme="@style/AppTheme.FullScreen">
-        </activity>
+                  android:theme="@style/AppTheme.FullScreen"/>
         <activity android:name=".activity.SplashActivity"
         android:theme="@style/AppTheme.FullScreen">
             <intent-filter>
